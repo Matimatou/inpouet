@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Font_logo";
+    src: url("../font/Font_logo");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Font_logo";
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rebeccapurple;
+    align-items: center;
+    padding: 0 20px;
+}
+
+header>img {
+    width: 100px;
+    height: 100px;
+    padding: 0 10px
+}
+
+header>ul {
+    display: flex;
+    list-style-type: none;
+    gap: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    font-size: large;
+}
+
+a:hover {
+    color: white;
+}
