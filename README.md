@@ -44,3 +44,7 @@ For Tanguy  ❤️
 
 ## Footer
 - Social networks and email icon link to mailto:
+
+
+Credit to [Gaurav](https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci) for the navbar and hamburger menu.
+
