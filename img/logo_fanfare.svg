@@ -14,6 +14,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+   <style>
+      <![CDATA[
+         @font-face {
+            font-family: "Font_logo";
+            src: url("../font/Font_logo");
+         }
+      ]]>
+   </style>
   <defs
      id="defs16">
     <rect
@@ -62,5 +70,5 @@
          y="703.65666"
          id="tspan341">INPouet</tspan></text>
   </g>
-</svg>
+</svg>   
 
