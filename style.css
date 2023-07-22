@@ -162,7 +162,6 @@ hero>p {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    border: 1px solid black;
     margin: 0 2rem;
     height: 100%;
 }
@@ -178,6 +177,7 @@ hero>p {
     display: flex;
     flex-direction: column;
     flex: 1;
+    gap: 1rem;
 }
 
 .card>img {
@@ -186,4 +186,29 @@ hero>p {
     object-fit: cover;
     border: 4px solid #3882F6;
     border-radius: 15px;
+}
+
+footer {
+    height: 2rem;
+    background-color: #c0630b;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3em;
+}
+
+footer span {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.socials {
+    display: flex;
+    gap: 1rem;
+}
+
+.socials img {
+    height: 3em;
+    width: auto;
 }
