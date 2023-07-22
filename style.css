@@ -1,3 +1,5 @@
+/* Main page */
+
 @font-face {
     font-family: "Font_logo";
     src: url("../font/Font_logo");
@@ -12,6 +14,12 @@
 html {
     font-size: 62.5%;
     font-family: "Font_logo";
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 h1 {
@@ -29,11 +37,12 @@ a {
     text-decoration: none;
 }
 
+
 .header {
     background-color: #c0630b;
 }
 
-.navbar>img {
+.navbar img {
     height: 10rem;
 }
 
@@ -42,6 +51,10 @@ a {
     justify-content: space-between;
     align-items: center;
     padding: 0 1.5rem;
+}
+
+.nav-menu {
+    margin-right: 5rem;
 }
 
 .hamburger {
@@ -131,6 +144,15 @@ a {
 main {
     padding: 5vh 0;
     background-color: #f8dea1;
+    flex: 1;
+    flex-direction: column;
+}
+
+main .plan-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
 }
 
 hero {
@@ -211,4 +233,13 @@ footer span {
 .socials img {
     height: 3em;
     width: auto;
+}
+
+/* Join page */
+
+.join-text {
+    font-size: 3rem;
+    font-weight: 500;
+    text-align: center;
+    margin: 2rem;
 }
