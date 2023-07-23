@@ -19,6 +19,7 @@ For Tanguy  ❤️
 ## Contact page
 - Text describing INP'OUET prestations (kind of music, length, price, etc.)
 - Contact form ask for email
+- the contact form ask for object email and message content the message is sent to tangy's email and the  telgram group get a ping with the message from a bot
 - [Optional] form with date, place, kind of event, etc.
 
 ## Performance page 
