@@ -165,17 +165,20 @@ hero {
 /* Slides show */
 
 .mySlides {
-    display: none
+    display: none;
 }
 
-.slides-container img {
+.slideshow-container img {
     vertical-align: middle;
+    width: 100%;
 }
 
 .slideshow-container {
     max-width: 1000px;
+    max-height: 666px;
     position: relative;
     margin: auto;
+    margin-top: 2rem;
 }
 
 .prev,
@@ -206,16 +209,7 @@ hero {
     background-color: rgba(0, 0, 0, 0.8);
 }
 
-/* Caption text */
-.text {
-    color: #ffffff;
-    font-size: 15px;
-    padding: 8px 12px;
-    position: absolute;
-    bottom: 8px;
-    width: 100%;
-    text-align: center;
-}
+
 
 /* Number text (1/3 etc) */
 .numbertext {
@@ -227,6 +221,11 @@ hero {
 }
 
 /* The dots/bullets/indicators */
+.dot-container {
+    text-align: center;
+    margin-top: 1rem;
+}
+
 .dot {
     cursor: pointer;
     height: 15px;
