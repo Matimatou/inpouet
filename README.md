@@ -8,7 +8,7 @@ TODO :
 - Telegram and instagram logo that redirect to the INP'OUET telegram and instagram page
 - Contact to enter the INP'OUET
 - Place and date of INP'OUET repetitions
-For Tanguy  ❤️
+
 
 # Description of each pages
 
@@ -51,3 +51,4 @@ For Tanguy  ❤️
 Credit to [Gaurav](https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci) for the navbar and hamburger menu.
 [W3docs](https://www.w3docs.com/snippets/css/how-to-create-an-image-slider-or-slideshow.html) for the slideshow.
 
+For Tanguy  ❤️
