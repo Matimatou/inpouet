@@ -18,7 +18,7 @@ function closeMenu() {
 }
 
 // Diaporama 
-const imgPath = ["gala_1.jpg", "gala_2.jpg", "gala_3.jpg", "léonor.jpg"]
+const imgPath = ["gala_1.jpg", "gala_2.jpg", "gala_3.jpg"]
 function fillSlideContainer() {
     const slideContainer = document.querySelector('.slideshow-container');
     const dotContainer = document.querySelector('.dot-container');
