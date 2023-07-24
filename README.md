@@ -13,6 +13,7 @@ For Tanguy  ❤️
 # Description of each pages
 
 ## Presentation page
+- Diaporama of INP'OUET photos shall be created with DOM manipulation in order to have 1/n text in top left corner  and arrows on the sides to change the photo photos should also change automatically every 5 seconds
 - Tanguy's Brasse
 - Bureau's photo with presentation of each member
 
@@ -48,4 +49,5 @@ For Tanguy  ❤️
 
 
 Credit to [Gaurav](https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci) for the navbar and hamburger menu.
+[W3docs](https://www.w3docs.com/snippets/css/how-to-create-an-image-slider-or-slideshow.html) for the slideshow.
 
