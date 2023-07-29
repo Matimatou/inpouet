@@ -27,7 +27,7 @@ TODO :
 - Videos of INP'OUET performances
 - Photos of INP'OUET performances
 - Display chronologically, with description, date, place, etc.
-- should look like a grid
+- Should look like a grid
 
 ## Join page 
 - Description of where the repetitions take place, when, etc.
