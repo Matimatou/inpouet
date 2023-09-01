@@ -1,18 +1,15 @@
 /* General styling */
-@font-face {
-    font-family: "Font_logo";
-    src: url("../font/Font_logo");
-}
+
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Kanit', sans-serif;
 }
 
 html {
     font-size: 62.5%;
-    font-family: "Font_logo";
 }
 
 body {
